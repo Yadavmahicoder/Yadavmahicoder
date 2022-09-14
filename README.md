@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yadavmahicoder
-- 👀 I’m interested in HTML,CSS,JS
+- 👀 I’m interested in HTML,CSS and JS
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
