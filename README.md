@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Themahicoder
+- 👋 Hi, I’m @TheMahicoder
 - 👀 I’m interested in HTML,CSS and JS
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on ...
